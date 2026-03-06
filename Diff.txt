@@ -1,0 +1,1 @@
+at first when I used git fetch it just wrote down enumareting and etc. but there was no changes i did. After using git pull it showed the changes I did in github(aka remote?)
